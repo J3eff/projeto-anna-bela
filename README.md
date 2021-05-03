@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Projeto Anna Bella </h1>
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#--apresentação-do-projeto">Apresentação do projeto</a>  
+ <a href="#-apresentação-do-projeto">Apresentação do projeto</a>  
  
 </p>
 
