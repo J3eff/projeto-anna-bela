@@ -12,7 +12,7 @@
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
-<p> Projetos simples para testa nosso conhecimento com as técnologias e como elas trabalham juntas. </p>
+<p> Projetos simples para testa conhecimento com as técnologias e mostrar como elas trabalham em conjunto. </p>
 
 <h2>✨ Apresentação do projeto</h2>
 
