@@ -15,6 +15,7 @@
 <p> Projetos simples para testa conhecimento com as técnologias e mostrar como elas trabalham em conjunto. </p>
 
 <h2>✨ Apresentação do projeto</h2>
+
 ![Animação](https://user-images.githubusercontent.com/50780211/116931479-66a1f180-ac37-11eb-9b2d-81afe84f6517.gif)
 
 
